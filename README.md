@@ -28,7 +28,7 @@
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutamy&theme=cobalt)](https://github.com/nutamy/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutamy&layout=demo&theme=cobalt)](https://github.com/nutamy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutamy&layout=compact&theme=cobalt)](https://github.com/nutamy/github-readme-stats)
 
 ---
 
