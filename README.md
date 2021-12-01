@@ -27,12 +27,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Nutamy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nutamy&show_icons=true&hide_border=true" />
-
-</details>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutamy)](https://github.com/nutamy/github-readme-stats)
 
 [youtube]: https://www.youtube.com/channel/UCVm9QAMK50n2fhllQvK6hTw
 [instagram]: https://www.instagram.com/nataly.smart.kz/
