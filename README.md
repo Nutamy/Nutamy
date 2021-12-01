@@ -27,7 +27,7 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutamy&theme=radical)](https://github.com/nutamy/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutamy&theme=buefy)](https://github.com/nutamy/github-readme-stats)
 
 [youtube]: https://www.youtube.com/channel/UCVm9QAMK50n2fhllQvK6hTw
 [instagram]: https://www.instagram.com/nataly.smart.kz/
