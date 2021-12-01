@@ -28,13 +28,9 @@
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutamy&theme=cobalt)](https://github.com/nutamy/github-readme-stats)
-
-<br />
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutamy&layout=compact&theme=cobalt)](https://github.com/nutamy/github-readme-stats)
 
+---
 
 [youtube]: https://www.youtube.com/channel/UCVm9QAMK50n2fhllQvK6hTw
 [instagram]: https://www.instagram.com/nataly.smart.kz/
