@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @Nutamy
-- 👀 I’m interested in Machine learning, Data Science.
-- 🌱 I’m currently learning Matplotlib
-- 💞️ I’m looking to collaborate on sientists, jurnalists.
+- 👀 I’m interested in Unity and Game development.
+- 🌱 I’m currently learning C# 
+- 💞️ I’m looking to collaborate on artists, game designers.
 - 📫 How to reach me ko7ulina@gmail.com
 
 
