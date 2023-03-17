@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on artists, game designers.
 - 📫 How to reach me ko7ulina@gmail.com
 
-
+### My Games
+[<img align="left" alt="itch.io" width="32px" src="http://www.cavesofqud.com/img/itch-logo.png" />][itch]
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -41,6 +42,7 @@
 [youtube]: https://www.youtube.com/channel/UCVm9QAMK50n2fhllQvK6hTw
 [instagram]: https://www.instagram.com/nataly.smart.kz/
 [linkedin]: https://www.linkedin.com/in/nataliya-kozulina-934a5b151/
+[itch]: https://smartfrog.itch.io/
 
 <!---
 Nutamy/Nutamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
