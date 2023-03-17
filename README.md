@@ -13,6 +13,7 @@
 <br />
 
 ### Languages and Tools:
+<img align="left" alt="Unity" width="32px" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogo.png" />
 <img align="left" alt="C#" width="32px" src="https://user-images.githubusercontent.com/87650074/182376186-b09b1ac6-7cc7-4ffa-964a-dce0a65db2f6.svg" />
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Numpy" width="32px" src="https://github.com/Nutamy/imges/blob/main/github_numpy.png?raw=true" />
