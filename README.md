@@ -1,9 +1,9 @@
 
-- 👋 Hi, I’m @Nutamy
-- 👀 I’m interested in Unity and Game development.
-- 🌱 I’m currently learning C# 
-- 💞️ I’m looking to collaborate on artists, game designers.
-- 📫 How to reach me ko7ulina@gmail.com
+- 👋 Hi, I’m @Nutamy  
+- 🕹️ Game Developer with industry experience  
+- 🌱 Currently deepening my knowledge in C# / .NET and modern game development practices  
+- 💞️ Open to collaboration with artists, designers, sound engineers and fellow developers  
+- 📫 Reach me: ko7ulina@gmail.com
 
 ### My Games
 [<img align="left" alt="itch.io" width="32px" src="http://www.cavesofqud.com/img/itch-logo.png" />][itch]
