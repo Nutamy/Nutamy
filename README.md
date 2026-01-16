@@ -27,6 +27,15 @@
 <br />
 <br />
 
+### 🧠 Algorithms & Problem Solving
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/kozulina?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-kozulina-orange)](https://leetcode.com/kozulina/)
+<br />
+<br />
 ---
 
 [youtube]: https://www.youtube.com/channel/UCVm9QAMK50n2fhllQvK6hTw
