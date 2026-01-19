@@ -30,10 +30,10 @@
 ### 🧠 Algorithms & Problem Solving
 
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/kozulina?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/nutamy?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-kozulina-orange)](https://leetcode.com/kozulina/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-nutamy-orange)](https://leetcode.com/nutamy/)
 <br />
 <br />
 ---
