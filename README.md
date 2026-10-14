@@ -6,7 +6,7 @@
 
 Упаковываю сильные стороны малого бизнеса в продающий лендинг: исследование ниши, тексты, дизайн и код — от одного человека, без посредников.
 
-<a href="[[https://altyn-click.pages.dev/](https://altyn-click.com/)](https://altyn-click.com/)"><img src="https://img.shields.io/badge/Портфолио-altyn-click.com-d4af37?style=for-the-badge&labelColor=0d0d0d" alt="Портфолио" /></a>
+<a href="https://altyn-click.com/"><img src="https://img.shields.io/badge/Портфолио-altyn-click.com-d4af37?style=for-the-badge&labelColor=0d0d0d" alt="Портфолио" /></a>
 <a href="https://brief-aq7.pages.dev/"><img src="https://img.shields.io/badge/Заполнить_бриф-15_минут-d4af37?style=for-the-badge&labelColor=0d0d0d" alt="Бриф" /></a>
 
 </div>
